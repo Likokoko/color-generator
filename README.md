@@ -11,11 +11,17 @@ React:
 * Rendering components based on data in state
 * Conditional rendering of components based on state
 * Mapping over an array to render components dynamically
+
+
 Color Manipulation:
 * Values.js library for color manipulation
 * Converting RGB color values to hexadecimal
+
+
 Browser Operations:
 * Handling click events in the browser
 * Clipboard operations in the browser
+
+
 CSS Manipulation:
 * Manipulating CSS styles based on state
