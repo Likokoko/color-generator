@@ -1,7 +1,7 @@
 
-# [Color Generator App](https://github.com/Likokoko/color-generator.git)
- *  This is a JavaScript code using the React framework to generate a color palette. It includes several components such as SingleColor, Expense, Meals, Map, and Cards.
-  
+# [Color Generator App](https://github.com/Likokoko/color-generator.git) 
+ *  This is a JavaScript code using the React framework to generate a color palette. It includes several components such as SingleColor, Expense, Meals, Map, and Cards. Please open the file with **npm i values.js **
+
 Skills Used
 
 React:
@@ -25,3 +25,4 @@ Browser Operations:
 
 CSS Manipulation:
 * Manipulating CSS styles based on state
+
