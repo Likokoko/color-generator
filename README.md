@@ -7,8 +7,8 @@ https://user-images.githubusercontent.com/109224312/230857794-54aacbc1-6850-48df
 
 ## How to start:
 download the repo
-npm install
-npm start
+-- npm install
+--npm start
 
 
 Skills Used
